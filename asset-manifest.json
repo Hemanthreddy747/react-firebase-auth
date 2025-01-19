@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-firebase-auth/static/css/main.609053a6.css",
+    "main.js": "/react-firebase-auth/static/js/main.8177a83b.js",
+    "index.html": "/react-firebase-auth/index.html",
+    "main.609053a6.css.map": "/react-firebase-auth/static/css/main.609053a6.css.map",
+    "main.8177a83b.js.map": "/react-firebase-auth/static/js/main.8177a83b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.609053a6.css",
+    "static/js/main.8177a83b.js"
+  ]
+}
